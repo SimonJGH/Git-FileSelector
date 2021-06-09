@@ -1,0 +1,3 @@
+include ':scanfile'
+include ':app'
+rootProject.name = "Git-FileSelector"
